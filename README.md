@@ -9,7 +9,7 @@ TODO: feature to allow user to set profile picture <br/>
 
 **Profile Page** <br/>
 **Mobile View** <br/>
-[profile_page_phone_2](https://user-images.githubusercontent.com/57577392/173205154-da1c06c7-5193-42c2-bdb1-e0e1c7e4c1d1.PNG) <br/>
+![profile_page_phone](https://user-images.githubusercontent.com/57577392/173205199-742142a4-cf3d-4cc2-8f40-53139dd5614f.PNG)<br/>
 ![profile_page_phone_2](https://user-images.githubusercontent.com/57577392/173205180-5fdae7a1-c83e-441a-9260-34ff2c0975e0.PNG) <br/>
 
 **Tablet View!** <br/>
