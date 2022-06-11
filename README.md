@@ -21,7 +21,7 @@ TODO: feature to allow user to set profile picture <br/>
 *Tablet View* <br/>
 ![edit_profile_page_tablet](https://user-images.githubusercontent.com/57577392/173205232-633e7682-5c4f-4495-a500-be89aeb53a10.PNG) <br/> 
 
-Javascript regular expressions to check if the user has entered a valid name and username <br/>
+**Javascript regular expressions to check if the user has entered a valid name and username** <br/>
 
 ![edit_profile_page_invalid_phone](https://user-images.githubusercontent.com/57577392/173205275-c5ca34f5-6e32-4540-a4c4-b6667905d277.PNG) <br/>
 
