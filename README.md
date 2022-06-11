@@ -7,10 +7,10 @@ TODO: feature to allow user to set profile picture <br/>
 
 # SCREENSHOTS FROM THE APP 
 
-**Profile Page **
-**Mobile View**
-![profile_page_phone](https://user-images.githubusercontent.com/57577392/173205135-43be00cb-9a72-4913-a207-64af16d021df.PNG)
-[profile_page_phone_2](https://user-images.githubusercontent.com/57577392/173205154-da1c06c7-5193-42c2-bdb1-e0e1c7e4c1d1.PNG)
+**Profile Page** <br/>
+**Mobile View** <br/>
+[profile_page_phone_2](https://user-images.githubusercontent.com/57577392/173205154-da1c06c7-5193-42c2-bdb1-e0e1c7e4c1d1.PNG) <br/>
+![profile_page_phone_2](https://user-images.githubusercontent.com/57577392/173205180-5fdae7a1-c83e-441a-9260-34ff2c0975e0.PNG) <br/>
 
-**Tablet View!
+**Tablet View!** <br/>
 ![profile_page_tablet](https://user-images.githubusercontent.com/57577392/173205144-16173073-6df6-4114-a07a-c0ba537d9cd3.PNG)
